@@ -25,7 +25,7 @@
 | M3 | Slide Presentasi | `docs/Slide_T1A_Kelompok5.pdf / .pptx` | [PDF](https://github.com/putriekasfr/UAS-DL-Kelompok5-T1A-TXL-PBC/blob/main/docs/Slide_T1A_Kelompok5.pdf) | 15 slide 16:9, catatan pembicara & slide "Apa yang tidak berhasil" |
 | M3 | Model Card | `docs/Model_Card_T1A_Kelompok5.pdf / .docx` | [PDF](https://github.com/putriekasfr/UAS-DL-Kelompok5-T1A-TXL-PBC/blob/main/docs/Model_Card_T1A_Kelompok5.pdf) | Rincian model, kegunaan, kinerja uji, keterbatasan & etika |
 | M3 | Lembar Kontribusi | `docs/Lembar_Kontribusi_T1A_Kelompok5.pdf / .docx` | [PDF](https://github.com/putriekasfr/UAS-DL-Kelompok5-T1A-TXL-PBC/blob/main/docs/Lembar_Kontribusi_T1A_Kelompok5.pdf) | Ablasi per anggota, pembagian kerja, menit GPU & tanda tangan |
-| M3 | Penilaian Sejawat | `docs/Penilaian_Sejawat_T1A_Kelompok5.pdf / .docx` | [PDF]() | Formulir penilaian antaranggota |
+| M3 | Penilaian Sejawat | `docs/Penilaian_Sejawat_T1A_Kelompok5.pdf / .docx` | [PDF](https://github.com/putriekasfr/UAS-DL-Kelompok5-T1A-TXL-PBC/blob/main/docs/Penilaian_Sejawat_T1A_Kelompok5.pdf) | Formulir penilaian antaranggota |
 | Bobot | Checkpoint model (R01–R10) | Google Drive `runs/` | [Drive](https://drive.google.com/drive/folders/1JXp1aXMuHhHMx94U1CqYb0PJrNUSFMY4?usp=sharing) | best.pt / last.pt semua run (± 1 GB) |
 
 ---
@@ -169,6 +169,7 @@ Versi pustaka: Python 3.13 · PyTorch 2.14.1 · torchvision 0.29.1 · Ultralytic
 
 - Seluruh kode dan model pada repositori ini merupakan prototipe riset akademik untuk mata kuliah Computer Vision Lanjutan, **bukan alat diagnosis medis**.
 - Asisten AI generatif digunakan untuk membantu menulis kode notebook dan modul, membuat visualisasi, serta menyusun draf dokumen. Seluruh pelatihan dan evaluasi dijalankan oleh anggota Kelompok 5 di Google Colab; semua angka berasal dari keluaran notebook dan telah diperiksa ulang oleh kelompok.
+
 
 
 
