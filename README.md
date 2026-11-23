@@ -175,3 +175,4 @@ Versi pustaka: Python 3.13 · PyTorch 2.14.1 · torchvision 0.29.1 · Ultralytic
 
 
 
+
