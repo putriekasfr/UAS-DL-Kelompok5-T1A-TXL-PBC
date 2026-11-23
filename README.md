@@ -19,8 +19,8 @@
 
 | Milestone | Dokumen | Berkas | Tautan | Keterangan Ringkas |
 |---|---|---|---|---|
-| M1 | Proposal Proyek | `docs/Proposal_M1_T1A_Kelompok5.pdf / .docx` | [PDF]() | Latar belakang, RQ & hipotesis, dataset, rencana eksperimen, pembagian peran (2 hal) |
-| M2 | Laporan Kemajuan | `docs/Laporan_Kemajuan_M2_T1A_Kelompok5.pdf / .docx` | [PDF]() | Audit data, split tetap, uji kebocoran & baseline R01/R02 |
+| M1 | Proposal Proyek | `docs/Proposal_M1_T1A_Kelompok5.pdf / .docx` | [PDF](https://github.com/putriekasfr/UAS-DL-Kelompok5-T1A-TXL-PBC/blob/main/docs/Proposal_M1_T1A_Kelompok5.pdf) | Latar belakang, RQ & hipotesis, dataset, rencana eksperimen, pembagian peran (2 hal) |
+| M2 | Laporan Kemajuan | `docs/Laporan_Kemajuan_M2_T1A_Kelompok5.pdf / .docx` | [PDF](https://github.com/putriekasfr/UAS-DL-Kelompok5-T1A-TXL-PBC/blob/main/docs/Laporan_Kemajuan_M2_T1A_Kelompok5.pdf) | Audit data, split tetap, uji kebocoran & baseline R01/R02 |
 | M3 | Laporan Akhir (Artikel SINTA 2) | `docs/Laporan_Akhir_T1A_Kelompok5.pdf / .docx` | [PDF]() | 12 hal 2-kolom, struktur Lampiran B, abstrak EN 185 kata, 10 rujukan |
 | M3 | Slide Presentasi | `docs/Slide_T1A_Kelompok5.pdf / .pptx` | [PDF]() | 15 slide 16:9, catatan pembicara & slide "Apa yang tidak berhasil" |
 | M3 | Model Card | `docs/Model_Card_T1A_Kelompok5.pdf / .docx` | [PDF]() | Rincian model, kegunaan, kinerja uji, keterbatasan & etika |
@@ -169,3 +169,4 @@ Versi pustaka: Python 3.13 · PyTorch 2.14.1 · torchvision 0.29.1 · Ultralytic
 
 - Seluruh kode dan model pada repositori ini merupakan prototipe riset akademik untuk mata kuliah Computer Vision Lanjutan, **bukan alat diagnosis medis**.
 - Asisten AI generatif digunakan untuk membantu menulis kode notebook dan modul, membuat visualisasi, serta menyusun draf dokumen. Seluruh pelatihan dan evaluasi dijalankan oleh anggota Kelompok 5 di Google Colab; semua angka berasal dari keluaran notebook dan telah diperiksa ulang oleh kelompok.
+
